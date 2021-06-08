@@ -6,12 +6,12 @@
     <message>
         <location filename="../src/wallet/api/address_book.cpp" line="53"/>
         <source>Invalid destination address</source>
-        <translation type="unfinished"></translation>
+        <translation>آدرس مقصد اشتباه است</translation>
     </message>
     <message>
         <location filename="../src/wallet/api/address_book.cpp" line="60"/>
         <source>Payment ID supplied: this is obsolete</source>
-        <translation type="unfinished"></translation>
+        <translation>شناسه پرداخت ارائه شده منسوخ شده است </translation>
     </message>
 </context>
 <context>
@@ -19,37 +19,37 @@
     <message>
         <location filename="../src/wallet/api/pending_transaction.cpp" line="91"/>
         <source>Attempting to save transaction to file, but specified file(s) exist. Exiting to not risk overwriting. File:</source>
-        <translation type="unfinished"></translation>
+        <translation>درحال تلاس برای ذخیره تراکنش در یک فایل، ولی فایل از قبل وجود دارد، برنامه برای از بین بردن خطر بازنویسی فایل خارج می‌شود. فایل:</translation>
     </message>
     <message>
         <location filename="../src/wallet/api/pending_transaction.cpp" line="98"/>
-        <source>Failed to write transaction(s) to file</source>
-        <translation type="unfinished"></translation>
+        <source>نوشتن تراکنش‌ها روی فایل موفق نبود </source>
+        <translation></translation>
     </message>
     <message>
         <location filename="../src/wallet/api/pending_transaction.cpp" line="138"/>
-        <source>daemon is busy. Please try again later.</source>
-        <translation type="unfinished"></translation>
+        <source>دائمون در حال حاضر مشغول است. لطفاً دوباره سعی نمایید</source>
+        <translation></translation>
     </message>
     <message>
         <location filename="../src/wallet/api/pending_transaction.cpp" line="141"/>
-        <source>no connection to daemon. Please make sure daemon is running.</source>
-        <translation type="unfinished"></translation>
+        <source>هیچ ارتباطی با دائمون وجود ندارد، لطفاً مطمئن شوید دائمون در حال اجراست</source>
+        <translation></translation>
     </message>
     <message>
         <location filename="../src/wallet/api/pending_transaction.cpp" line="145"/>
-        <source>transaction %s was rejected by daemon with status: </source>
-        <translation type="unfinished"></translation>
+        <source>تراکنش %s توسط دائمون رد شد با وضعیت: </source>
+        <translation></translation>
     </message>
     <message>
         <location filename="../src/wallet/api/pending_transaction.cpp" line="150"/>
-        <source>. Reason: </source>
-        <translation type="unfinished"></translation>
+        <source>. دلیل: </source>
+        <translation></translation>
     </message>
     <message>
         <location filename="../src/wallet/api/pending_transaction.cpp" line="152"/>
-        <source>Unknown exception: </source>
-        <translation type="unfinished"></translation>
+        <source>استثنای ناشناخته: </source>
+        <translation></translation>
     </message>
     <message>
         <location filename="../src/wallet/api/pending_transaction.cpp" line="155"/>
